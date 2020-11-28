@@ -23,5 +23,3 @@ This project's aim was to build a piece of software that could catch if a piece 
 
 # Project Status 
 Complete
-
-#
