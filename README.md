@@ -1,5 +1,7 @@
 # Toxic-Text-Classifier
-This project can classify whether or not a piece of text is toxic.
+This project can classify whether or not a piece of text is toxic. I would like to preface that I do not condone any of these words, and this project is for educational purposes only.
+
+![](#images/toxic.png)
 
 # Introduction
 This project's aim was to build a piece of software that could catch if a piece of text is toxic. Then it will flag the company, so they can take action against the offender. This will discourage people from being toxic. This was also a training project where I got familiar with tensorflow, and improved my python skills.
@@ -19,4 +21,7 @@ This project's aim was to build a piece of software that could catch if a piece 
 - Andaconda Navigator
 - Jupyter Notebooks
 
+# Project Status 
+Complete
 
+#
